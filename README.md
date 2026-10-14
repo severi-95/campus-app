@@ -1,1 +1,1 @@
-CA-1-event-list
+Campus App näyttää opiskelijoiden tapahtumat
