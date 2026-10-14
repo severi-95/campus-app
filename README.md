@@ -1,5 +1,1 @@
-# Campus App
-
-Jira: CA-1
-
-sovellus opiskelijoiden tapahtumien hallintaan
+CA-1-event-list
